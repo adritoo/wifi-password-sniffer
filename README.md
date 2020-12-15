@@ -1,4 +1,4 @@
-#Python Script : Wifi Password Sniffer
+# Python Script : Wifi Password Sniffer
 
 
 ## Features
